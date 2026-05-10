@@ -16,3 +16,5 @@ Thumbs.db
 update_db.php
 check_users.php
 reset_admin.php
+~$*
+*.tmp
