@@ -1,0 +1,55 @@
+SISTEMA DE MONITORAMENTO METEOROLOGICO
+Relatorio Tecnico de Desenvolvimento
+
+Autor: [Seu Nome]
+Data: 10 de Maio de 2026
+
+================================================================
+INDICE
+================================================================
+1. Introducao
+2. Desenvolvimento do Sistema
+   2.1 Arquitetura
+   2.2 Funcionalidades
+3. Base de Dados
+4. Conclusao
+5. Bibliografia
+
+================================================================
+1. INTRODUCAO
+================================================================
+O presente relatorio descreve o desenvolvimento de um Sistema de Monitoramento Meteorologico (WeatherSystem). Este sistema foi concebido para fornecer informacoes meteorologicas em tempo real, permitindo a gestao de utilizadores e a exportacao de dados historicos para analise.
+
+================================================================
+2. DESENVOLVIMENTO DO SISTEMA
+================================================================
+2.1 Arquitetura
+Frontend: Angular
+Backend: PHP Puro
+
+[IMAGEM AQUI] - Arquitetura
+
+2.2 Funcionalidades
+1. Login/Registo
+2. API OpenWeather
+3. Painel Admin
+4. Exportacao PDF/CSV
+
+[IMAGEM AQUI] - Dashboard
+
+================================================================
+3. BASE DE DADOS
+================================================================
+MySQL com tabelas de users, history e favorites.
+
+[IMAGEM AQUI] - Modelo ER
+
+================================================================
+4. CONCLUSAO
+================================================================
+Sistema funcional e escalavel.
+
+================================================================
+5. BIBLIOGRAFIA
+================================================================
+Angular Docs, PHP Manual, OpenWeather API.
