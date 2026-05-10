@@ -1,0 +1,18 @@
+# Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/src/favicon.png
+
+# PHP / Composer
+backend/vendor/
+backend/config/Config.php
+backend/composer.lock
+
+# Logs and temp files
+*.log
+.DS_Store
+Thumbs.db
+update_db.php
+check_users.php
+reset_admin.php

@@ -1,0 +1,17 @@
+<?php
+namespace Config;
+
+class Config {
+    // Coloque aqui a sua chave da OpenWeatherMap
+    public static $WEATHER_API_KEY = "SUA_CHAVE_AQUI"; 
+    public static $WEATHER_API_URL = "https://api.openweathermap.org/data/2.5/";
+    public static $EMAIL_FROM = "seu-email@gmail.com";
+    public static $SITE_URL = "http://localhost:4200";
+    
+    // Configurações SMTP para PHPMailer
+    public static $SMTP_HOST = "smtp.gmail.com";
+    public static $SMTP_PORT = 587;
+    public static $SMTP_USER = "seu-email@gmail.com";
+    public static $SMTP_PASS = "sua-senha-de-aplicativo"; 
+}
+?>
